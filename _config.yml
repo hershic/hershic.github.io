@@ -5,7 +5,7 @@ relative_permalinks: true
 # Setup
 title:            Hershic
 tagline:          The New Age Sisyphus
-url:              http://hershic.github.io
+url:              https://github.com/hershic/hershic.github.io
 paginate:         1
 baseurl:          /
 author:
