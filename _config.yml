@@ -8,8 +8,8 @@ tagline:          The New Age Sisyphus
 url:              http://hershic.github.io
 paginate:         1
 baseurl:          /
-author:           Eric Crosson
-  name:
+author:
+  name:           Eric Crosson
   url:            https://github.com/EricCrosson
   email:          eric.s.crosson@utexas.edu
 
