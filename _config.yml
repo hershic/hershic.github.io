@@ -4,8 +4,8 @@ relative_permalinks: true
 
 # Setup
 title:            Hershic
-tagline:          The New Age Sysiphus
-url:              http://getpoole.com
+tagline:          The New Age Sisyphus
+url:              http://hershic.github.io
 paginate:         1
 baseurl:          /
 author:           Eric Crosson
@@ -15,5 +15,5 @@ author:           Eric Crosson
 
 # Custom vars
 version:          1.0.0
-github:
+github:           https://github.com/hershic
   repo:           https://github.com/hershic/hershic.github.io
